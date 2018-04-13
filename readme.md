@@ -27,7 +27,7 @@ Run 'composer install' in the project directory, to get the required package to 
 
 ```
 
-## Built With some awesome goodies.
+## Built With Love and awesome goodies.
 
 * [PHP]
 * [MySQL]
