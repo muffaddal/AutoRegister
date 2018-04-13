@@ -1,0 +1,16 @@
+{
+  "name": "mufaddal/auto-resgitrar",
+  "description": "Package for minified Inventory system",
+  "authors": [
+    {
+      "name": "Mufaddal Nagpurwala",
+      "email": "muffaddal.nagpurwala@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
